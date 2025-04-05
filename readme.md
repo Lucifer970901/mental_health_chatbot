@@ -1,4 +1,4 @@
-# TranquilTalk - Empathetic RAG Chatbot
+# Haven - Empathetic RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot built with LangChain, Pinecone, and Ollama, designed to provide empathetic and supportive conversations while sharing relevant information from documents.
 
